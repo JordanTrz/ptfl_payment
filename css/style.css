@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
 .all-web {
     font-family: 'Red Hat Display', sans-serif;
     background: url(../images/pattern-background-desktop.svg) no-repeat;
